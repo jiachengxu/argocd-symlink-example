@@ -1,5 +1,5 @@
 layers:
-- ../k8s/guestbook-ui-deployment.yaml
+- ../k8s/deployment.yaml
 - patch.jsonnet
-- ../k8s/guestbook/guestbook-ui-svc.yaml
+- ../k8s/svc.yaml
 
