@@ -1,5 +1,5 @@
 layers:
-- ../k8s/deployment.yaml
+- deployment.yaml
 - patch.jsonnet
-- ../k8s/svc.yaml
+- svc.yaml
 
